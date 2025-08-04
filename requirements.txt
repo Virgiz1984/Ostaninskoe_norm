@@ -5,4 +5,3 @@ matplotlib
 plotly
 openpyxl
 plotly.express
-from ipywidgets import interact
